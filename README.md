@@ -6,9 +6,12 @@
 <h1> Sistema De Vendas </h1>
     <p aling="center"> Projeto realizado acompanhando o desafio do
     <a href="https://www.youtube.com/watch?v=_hytKpMc04E&t=260s"> Bonieky Lacerda</a></p>
-    
+
 </br>
-<img id="logo" src="./imagens/Example.png" alt="Logo Do Projeto" width="1000" />
+<!-- <img id="logo" src="./imagens/Example.png" alt="Logo Do Projeto" width="1000" /> -->
+    </br>
+
 </br>
 
 </br>
+ 
